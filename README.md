@@ -54,7 +54,7 @@ Completed for **Unit 25: Machine Learning** (Pearson BTEC HND in Computing). The
 
 | File | Description |
 |---|---|
-| `bank_marketing_prediction.ipynb` | Full notebook (rename to match your file) |
+| `bank_marketing_prediction.ipynb` | Full notebook (Bank_Data_Testing_Algorithm_Afry_Nizam) |
 | `charts/` | Exported charts used in this README |
 
 ## 👤 Author
