@@ -50,6 +50,11 @@ Completed for **Unit 25: Machine Learning** (Pearson BTEC HND in Computing). The
 - Compare more models (Random Forest, SVM) and report ROC-AUC
 - Tune hyperparameters with cross-validation
 
+## 📄 Documentation
+
+- [Presentation: Machine Learning in Financial Analytics (pptx)](ml-presentation.pptx)
+- [Project report extract: methodology and results (docx)](ml-report-extract.docx)
+
 ## 📂 Repository Contents
 
 | File | Description |
